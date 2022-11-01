@@ -23,7 +23,7 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
+  color: black;
   background-image: url("/img/background.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -62,4 +62,9 @@ header.masthead .masthead-heading {
     line-height: 4.5rem;
     margin-bottom: 4rem;
   }
+}
+
+#opaquecontainer{
+  background-color: white ;
+  height: 250px;
 }
