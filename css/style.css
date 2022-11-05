@@ -66,8 +66,12 @@ header.masthead .masthead-heading {
 
 #opaquecontainer{
   background-color: white ;
-  height: 250px;
+  height: 270px;
 }
 .funfact {
-  font-size: 25px;
+  font-size: 23px;
+}
+
+#funfactWord{
+  font-size: 35px;
 }
