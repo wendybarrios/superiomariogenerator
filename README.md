@@ -19,4 +19,4 @@ A web app showing information about your favorite supermario characters.
 
 
 ## Lessons Learned:
-- I got the chance to play around with the backend a bit more and I'm excited to dive deeper into the backend. It was fun building the API on the backend and using it in this web app to fetch data. It made me appreciate more the huge sets of data in API and how someone meticously put it together.
+- I got the chance to play around with the backend a bit more and I'm excited to dive deeper into Node.js and Express. It was fun building the API on the backend and using it in this web app to fetch data. It made me appreciate more the huge sets of data in API and how someone meticously put it together.
