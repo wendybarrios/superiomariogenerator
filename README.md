@@ -9,6 +9,8 @@ A web app showing information about your favorite supermario characters.
 
 ## Optimizations
 - **Next up:** I want to add a filter to show all characters of a particular species (ex.koopa)
+- I plan to add pictures to each characters and possibly use a cloud service as data storage.
+
 
 ## Lessons Learned:
 
