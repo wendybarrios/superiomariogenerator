@@ -1,5 +1,5 @@
 
-document.querySelector('button').addEventListener('click', getFetch)
+document.querySelector('.start-btn').addEventListener('click', getFetch)
 
 function getFetch(){
   const charactername = document.querySelector('input').value
