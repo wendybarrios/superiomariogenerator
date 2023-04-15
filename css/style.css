@@ -32,6 +32,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  height: 100%;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
@@ -98,13 +99,16 @@ margin:5px;
 border-radius: 7px;
   box-shadow: 0 .2em gray; 
   cursor: pointer;
-  font-size: 13pt;
+  font-size: 15pt;
   font-family: 'Press Start 2P', cursive;
-
+ margin-left: 0px;
 }
 .video-game-button:active, .start-btn:active {
 box-shadow: none;
 position: relative;
 top: .2em;
 }
+
+
+
 
