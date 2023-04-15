@@ -73,7 +73,8 @@ header.masthead .masthead-heading {
   height: 270px;
 }
 .funfact {
-  font-size: 23px;
+  font-size: 14px;
+  font-family: 'Press Start 2P', cursive;
 }
 
 #funfactWord{
