@@ -27,7 +27,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: black;
-  background-image: url("/img/background.jpg");
+  background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
