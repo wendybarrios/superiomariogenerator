@@ -5,7 +5,7 @@
     </p>
 
 
-# SuperMario Generator: <a href="https://super-arithmetic-4e5fcb.netlify.app" target="_blank">Visit Here</a>
+# SuperMario Generator: <a href="https://supermariogenerator.netlify.app" target="_blank">Visit Here</a>
 A web app showing information about your favorite supermario characters.
 #### Tech Used:
 
