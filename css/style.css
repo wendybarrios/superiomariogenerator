@@ -101,9 +101,15 @@ margin:5px;
 border-radius: 7px;
   box-shadow: 0 .2em gray; 
   cursor: pointer;
-  font-size: 15pt;
+  font-size: 8.5pt;
   font-family: 'Press Start 2P', cursive;
  margin-left: 0px;
+ padding-top: 10px;
+ padding-left: 8px;
+ padding-right: 8px;
+ margin-bottom: 15px;
+ padding-bottom: 6px;
+
 }
 .video-game-button:active, .start-btn:active {
 box-shadow: none;
